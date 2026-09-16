@@ -12,3 +12,9 @@ Une application web d'analyse boursière interactive et d'aide à la décision d
 * **Langage** : Python
 * **Interface Web** : Streamlit
 * **Analyse de données & Graphiques** : Pandas, Plotly, yfinance
+Installation & Lancement en local
+
+A. **Cloner le dépôt :**
+   ```bash
+   git clone [https://github.com/gaspardft95-jpg/smart-stock-analyzer.git](https://github.com/gaspardft95-jpg/smart-stock-analyzer.git)
+   cd smart-stock-analyzer
